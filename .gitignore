@@ -1,3 +1,4 @@
+config.txt
 # Prerequisites
 *.d
 
@@ -30,4 +31,3 @@
 *.exe
 *.out
 *.app
-config.txt
